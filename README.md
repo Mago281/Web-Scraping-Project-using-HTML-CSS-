@@ -44,7 +44,7 @@ The data was analysed further to answer the following questions, and a data visu
   
       o	Highest:   Month 9
       
-      o	Lowest:   Month 6
+      o	Lowest:    Month 6
 
 
   •	About how many terrestrial (earth) days exist in a Martian year?  (A visual estimate within 25% was made.) 
