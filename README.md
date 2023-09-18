@@ -22,23 +22,35 @@ Part 2: Scrape and Analyse Mars Weather Data
 In the Jupyter notebook part_2_mars_weather, the HTML table was extracted into a Pandas DataFrame using either Pandas or Splinter and Beautiful Soup.  The scraped data was analysed to answer the following questions: 
 
   •	How many months exist on Mars?
+  
       o	12 months
+      
     
   •	How many Martian days of data are there?
+  
       o	1,867 days
 
       
 The data was analysed further to answer the following questions, and a data visualisation was created to support each answer:
+
   •	Which months, on average, have the lowest and the highest temperatures on Mars?
+  
       o	Coldest:		Month 3
+      
       o	Warmest:	Month 8
+      
 
   •	Which months, on average, have the lowest and the highest atmospheric pressures on Mars?
+  
       o	Highest:		Month 9
+      
       o	Lowest:		Month 6
 
+
   •	About how many terrestrial (earth) days exist in a Martian year?  (A visual estimate within 25% was made.) 
+  
       o	About 675 terrestrial (earth) days exist in a Martian year
+      
 
 The DataFrame was exported into a CSV file:		mars_weather.csv
 
