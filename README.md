@@ -31,7 +31,7 @@ In the Jupyter notebook part_2_mars_weather, the HTML table was extracted into a
       o	1,867 days
 
       
-The data was analysed further to answer the following questions, and a data visualisation was created to support each answer:
+The data was analysed further to answer the following questions, and a data visualisations were created to support each answer:
 
   •	Which months, on average, have the lowest and the highest temperatures on Mars?
   
