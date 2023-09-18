@@ -35,14 +35,14 @@ The data was analysed further to answer the following questions, and a data visu
 
   •	Which months, on average, have the lowest and the highest temperatures on Mars?
   
-      o	Coldest:		Month 3
+      o	Coldest:	Month 3
       
       o	Warmest:	  Month 8
       
 
   •	Which months, on average, have the lowest and the highest atmospheric pressures on Mars?
   
-      o	Highest:		Month 9
+      o	Highest:	Month 9
       
       o	Lowest:		  Month 6
 
