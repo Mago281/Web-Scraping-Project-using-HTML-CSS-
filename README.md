@@ -1,4 +1,4 @@
-# Module-_11_Challenge
+# Web Scraping Project using HTML and CSS
 
 This project showcases the utilization of BeautifulSoup and Splinter integrated with Selenium to gather data from websites lacking an API.
 
