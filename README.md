@@ -1,17 +1,18 @@
 # Module-_11_Challenge
 
-This challenge demonstrates the usage of BeautifulSoup and Splinter with Selenium to collect data from websites without an API.
+This project showcases the utilization of BeautifulSoup and Splinter integrated with Selenium to gather data from websites lacking an API.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Part 1: Scrape Titles and Preview Text from Mars News
 -----------------------------------------------------
 
-In the Jupyter notebook part_1_mars_news, automated browsing, with Splinter, was used to visit the Mars news site, and the HTML code was extracted using Beautiful Soup.
+Part 1: Scrape Titles and Preview Text from Mars News
+The Jupyter notebook part_1_mars_news employs automated browsing via Splinter to navigate the Mars news site, followed by extraction of HTML code utilizing Beautiful Soup.
 
-The titles and preview text of the news articles were scraped and extracted in accordance with the Part 1 Requirements.
+Titles and preview texts of news articles were systematically scraped and extracted, adhering to the Part 1 Requirements.
 
-The scraped information was stored in the specified Python data structure, in a list of dictionaries.
+The acquired information was stored in the specified Python data structure, structured as a list of dictionaries.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -19,19 +20,21 @@ The scraped information was stored in the specified Python data structure, in a 
 Part 2: Scrape and Analyse Mars Weather Data
 --------------------------------------------
 
-In the Jupyter notebook part_2_mars_weather, the HTML table was extracted into a Pandas DataFrame using either Pandas or Splinter and Beautiful Soup.  The scraped data was analysed to answer the following questions: 
+Within the Jupyter notebook 'part_2_mars_weather', the HTML table was meticulously extracted into a Pandas DataFrame employing either Pandas or Splinter integrated with Beautiful Soup.
+
+Subsequently, the scraped data was meticulously analyzed to address the following inquiries:
 
   •	How many months exist on Mars?
   
-      o	12 months
+      o	There are 12 months on Mars.
       
     
-  •	How many Martian days of data are there?
+  •	How many Martian days of data are there ?
   
-      o	1,867 days
+      o	There are 1,867 days of Martian data available.
 
       
-The data was analysed further to answer the following questions, and a data visualisations were created to support each answer:
+Moreover, the data underwent further scrutiny to address the subsequent questions, supplemented with data visualizations for each response:
 
   •	Which months, on average, have the lowest and the highest temperatures on Mars?
   
@@ -49,9 +52,9 @@ The data was analysed further to answer the following questions, and a data visu
 
   •	About how many terrestrial (earth) days exist in a Martian year?  (A visual estimate within 25% was made.) 
   
-      o	About 675 terrestrial (earth) days exist in a Martian year
+      o	Approximately 675 terrestrial (earth) days constitute a Martian year.
       
 
-The DataFrame was exported into a CSV file:		mars_weather.csv
+Lastly, the DataFrame was exported into a CSV filenamed 'mars_weather.csv'.
 
 
